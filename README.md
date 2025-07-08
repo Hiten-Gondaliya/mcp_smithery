@@ -1,1 +1,2 @@
 # mcp_smithery
+hi
